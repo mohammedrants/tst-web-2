@@ -1,0 +1,6 @@
+{
+  "name": "Ali Books",
+  "description": "Lahore's leading academic bookstore for O/A Levels, FSC, and Matriculation resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
